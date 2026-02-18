@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis
+#  E-Commerce Sales Analysis
 
 ##  Project Overview
 This project analyzes e-commerce transaction data to uncover sales trends, customer behavior, and revenue insights using **Python (Pandas)** for data processing and exploratory analysis.
